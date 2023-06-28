@@ -1,1 +1,1 @@
-# Brand Research 2: Pete's
+# Brand Research 2: Peet's Coffee
