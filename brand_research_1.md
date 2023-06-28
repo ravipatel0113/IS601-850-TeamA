@@ -21,7 +21,8 @@ The slogan talks about our worth, We are individuals, we deserve the cup of coff
 **Why do they choose Explorer? The differentiation strategy of the brand.**
 Like The slogan. it’s not just coffee. It’s Starbucks. Starbucks has worked hard to individualize itself and so differentiate in the big and competitive market. _Explorer_ gives the key to _individualization_. And with the cup of coffee, they will become more unique, just like the brand.
 
-1. gsfg
-2. aeegdfg
-3. gfzg
-4. 
+#### Q2 Fiscal 2023 Results:
+1. Q2 Consolidated Net Revenues Up 14% to `$ 8.7 Billion`. 
+2. Q2 Comparable Store Sales Up 11% Globally; Up 12% in North America; Up 7% in International.
+3. Q2 GAAP EPS `$0.79`; Non-GAAP EPS `$0.74` Reflecting Stronger-Than-Expected Performance Globally.
+4. Q2 Active U.S. Starbucks® Rewards Membership Reaches 30.8 Million, Up 15% Over Prior Year.
