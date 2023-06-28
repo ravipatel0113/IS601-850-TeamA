@@ -6,7 +6,7 @@
 
 Since 1971, Starbucks Coffee Company has been committed to ethically sourcing and roasting high-quality arabica coffee. Today, with more than 36,000 stores worldwide, the company is the premier roaster and retailer of specialty coffee in the world. Through our unwavering commitment to excellence and our guiding principles, we bring the unique Starbucks Experience to life for every customer through every cup. Visit online at [Starbucks News](http://news.starbucks.com) or [Starbucks](www.starbucks.com).
 
-It is the mixture of the Italian coffee houses and American Fast food culture. In 1992 the famous logo is created wich is a perfect emblem of the brand. When you remember the coffee immediately the green color enters your mind (which is, by thw way, one of the Explorer archetype colors).
+It is the mixture of the Italian coffee houses and American Fast food culture. In 1992 the famous logo is created wich is a perfect emblem of the brand. When you remember the coffee immediately the green color enters your mind (which is, one of the Explorer archetype colors).
 
 #### Slogan examples of Starbucks:
 
