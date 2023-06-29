@@ -33,7 +33,7 @@ Dunkin' Donuts caters to the needs of consumers who desire quick and convenient 
 - **Timeline:**
  Dunkin' Donuts maintains a consistent presence in the market and has ongoing operational and marketing activities, ensuring its products and services are available and accessible to consumers.
 
- Sales Funnel & Cialdini's 6 Principles of Persuasion for Dunkin' Donuts:
+## Sales Funnel & Cialdini's 6 Principles of Persuasion for Dunkin' Donuts:
 
 ### Sales Funnel:
 
