@@ -1,5 +1,23 @@
 # SWOT Competitive Analysis
 
+## Starbucks Marketing Strategy and SWOT Analysis:
+
+**BUYER PERSONA**
+- **Name:** Caffeine John
+- **Age:** 25-35
+- **Occupation:** Works a demanding job with long hours
+- **Personality traits:** Ambitious, busy, values efficiency and quality
+- **Hobbies:** Fitness, reading, staying up-to-date with current trends
+- **Challenges:** Limited time for breaks, needs a convenient and energizing pick-me-up
+- **Goals:** Seeks a moment of indulgence and relaxation amidst a hectic schedule
+  
+_By understanding the needs and preferences of a buyer persona like Caffeine Charlie, Starbucks can tailor their marketing strategies and offerings to cater to their target audience effectively._
+
+**BRAND ARCHETYPE:**
+- **Archetype:** The Magician
+- **Reason:**  Starbucks goes beyond just serving coffee; it strives to create memorable and meaningful moments for its customers. Whether it's the carefully curated store design, the welcoming atmosphere, or the personal interactions with baristas, Starbucks aims to make each visit feel special and magical.
+
+### Integrating Cialdini's 6 principles of persuasion into their Sales Funnel:
 
 
 
@@ -16,7 +34,8 @@
 
 
 
-# Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
+
+## Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
  **_BUYER PERSONA_**
  - **Name:** Subbu
@@ -34,7 +53,7 @@
 
 
 
-## Integrating Cialdini's 6 principles of persuasion into their Sales Funnel
+### Integrating Cialdini's 6 principles of persuasion into their Sales Funnel
 
 |   | Reciprocity | Commitment and Consistency | Social Proof | Authority | Liking | Scarcity |
 |---|-------------|---------------------------|--------------|----------|--------|----------|
@@ -44,7 +63,7 @@
 | Loyalty | Regular rewards and discounts for loyal customers | Consistently meeting customer expectations | Share positive experiences from loyal customers | Recognized as a trusted and preferred brand | Foster emotional connections with customers | Exclusive offers and benefits for loyalty program members |
 
 
-## SWOT ANALYSIS: 
+### SWOT ANALYSIS: 
 
 **Strengths:**
  - Strong brand recognition and global presence.
