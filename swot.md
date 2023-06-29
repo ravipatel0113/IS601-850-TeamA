@@ -18,7 +18,7 @@
 
 # Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
- **_BUYER PERSONA_**
+ **_BUYER PERSONA_:**
  - **Name:** Subbu
  - **Age:** 23 - 40 
  - **Occupation:** Working Professional 
