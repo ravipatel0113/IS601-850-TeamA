@@ -19,6 +19,14 @@ _By understanding the needs and preferences of a buyer persona like Caffeine Cha
 
 ### Integrating Cialdini's 6 principles of persuasion into their Sales Funnel:
 
+| Stage |	Reciprocity |	Commitment and Consistency | Social Proof |	Authority |	Liking |	Scarcity |
+|---|-------------|---------------------------|--------------|----------|--------|----------|
+| Awareness	|Free coffee samples | Consistent brand messaging |	Influencer endorsements |	Expert opinions in the coffee industry | Engaging social media content |	Limited edition seasonal beverages and merchandise |
+| Consideration |	Free drink with first purchase | Promoting quality ingredients |	User-generated content |	Coffee certifications and awards |	Stories of coffee farmers and ethical sourcing |	Limited-time promotions |
+| Conversion |	Rewards program (e.g., stars) |	Encouraging personalized orders |	Positive customer reviews |	Expert recommendations |	Friendly baristas and staff |	Limited-time discounts and offers |
+| Loyalty |	Exclusive member offers |	Subscription service |	User-generated photos and posts |	Featured in renowned publications |	Community engagement |Early access to new products |
+
+
 
 
 
