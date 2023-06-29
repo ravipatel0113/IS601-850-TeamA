@@ -10,7 +10,7 @@ Dunkin' Donuts positions itself as a friendly and accessible brand, offering aff
 Dunkin' Donuts strives to create a positive customer experience by providing fast and friendly service. The brand aims to become a part of customers' daily routines and rituals, offering familiar flavors and a comfortable environment.
 
 **Marketing Campaigns:**
- Dunkin' Donuts has engaged in various marketing campaigns, including the iconic "America Runs on Dunkin'" slogan, which reinforces the brand's role as a go-to destination for coffee lovers.
+ Dunkin' Donuts has engaged in various marketing campaigns, including the iconic _"America Runs on Dunkin'"_ slogan, which reinforces the brand's role as a go-to destination for coffee lovers.
 
 **Digital Presence:**
 Dunkin' Donuts has embraced digital platforms and social media to engage with its customers. The brand uses online ordering, mobile apps, and loyalty programs to enhance convenience and customer engagement.
