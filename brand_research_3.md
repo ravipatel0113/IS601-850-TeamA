@@ -4,6 +4,8 @@
 
 ## Dunkin' Donuts:
 
+_Dunkin' Donuts got its name from the practice of dunking donuts in coffee. The name reflects its original focus on donuts and coffee, while its recent rebranding to "Dunkin'" acknowledges its expanded menu and commitment to providing a variety of delicious offerings._
+
 Dunkin' Donuts positions itself as a friendly and accessible brand, offering affordable and convenient coffee and baked goods. The brand's core values include freshness, quality, and fast service. They offer a variety of doughnuts, coffee beverages, breakfast sandwiches, and other bakery items. Their menu focuses on convenience, catering to on-the-go customers with grab-and-go options. 
 
 **Brand Experience:**
