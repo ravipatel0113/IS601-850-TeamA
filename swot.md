@@ -18,17 +18,19 @@
 
 # Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
- **_Buyer Persona_**
-- **Name:** Subbu
-- **Age:** 
-- **Occupation:** 
-- **Personality traits:** 
-- **Hobbies:** 
-- **Challenges:** 
-- **Goals:** 
+ **_BUYER PERSONA_**
+ - **Name:** Subbu
+ - **Age:** 
+ - **Occupation:** 
+ - **Personality traits:** 
+ - **Hobbies:** 
+ - **Challenges:** 
+ - **Goals:** 
 
-- ***Archetype :*** The Everyman
-- ***Reason :*** Dunkin' Donuts' brand archetype of Everyman resonates with its broad appeal and inclusive approach, making their products and experiences accessible to a wide range of people.
+**_BRAND ARCHETYPE:_**
+
+ - **Archetype :** The Everyman
+ - **Reason :** Dunkin' Donuts' brand archetype of Everyman resonates with its broad appeal and inclusive approach, making their products and experiences accessible to a wide range of people.
 
 
 
