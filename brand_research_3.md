@@ -18,7 +18,7 @@ Dunkin' Donuts has embraced digital platforms and social media to engage with it
 **Brand Extensions:** 
 Dunkin' Donuts has expanded its product offerings beyond doughnuts and coffee, including introducing iced beverages, specialty drinks, and snacks to cater to changing consumer preferences.
 
-### BANT Analysis:
+## BANT Analysis:
 
 
 - **Budget:**
@@ -33,9 +33,9 @@ Dunkin' Donuts caters to the needs of consumers who desire quick and convenient 
 - **Timeline:**
  Dunkin' Donuts maintains a consistent presence in the market and has ongoing operational and marketing activities, ensuring its products and services are available and accessible to consumers.
 
-## Sales Funnel & Cialdini's 6 Principles of Persuasion for Dunkin' Donuts:
+# Sales Funnel & Cialdini's 6 Principles of Persuasion for Dunkin' Donuts:
 
-### Sales Funnel:
+## Sales Funnel:
 
 **1. Awareness:** Dunkin' Donuts creates awareness through various marketing channels, such as social media, TV commercials, and outdoor advertising, to reach a broad audience and attract potential customers.
 
@@ -47,7 +47,7 @@ Dunkin' Donuts caters to the needs of consumers who desire quick and convenient 
 
 **5. Retention:** To retain customers, Dunkin' Donuts focuses on delivering a consistent and satisfying experience through product quality, efficient service, and personalized offers to encourage repeat visits and loyalty.
 
-### Cialdini's 6 Principles of Persuasion:
+## Cialdini's 6 Principles of Persuasion:
 
 **1. Reciprocity:** Dunkin' Donuts offers free samples, promotions, and rewards programs to create a sense of reciprocity, encouraging customers to feel obligated to make a purchase or return the favor.
 
