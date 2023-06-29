@@ -26,9 +26,9 @@
 - **Hobbies:** 
 - **Challenges:** 
 - **Goals:** 
- 
- - **Archetype :** The Everyman
- - **Reason :** Dunkin' Donuts' brand archetype of Everyman resonates with its broad appeal and inclusive approach, making their products and experiences accessible to a wide range of people.
+
+- ***Archetype :*** The Everyman
+- ***Reason :*** Dunkin' Donuts' brand archetype of Everyman resonates with its broad appeal and inclusive approach, making their products and experiences accessible to a wide range of people.
 
 
 
