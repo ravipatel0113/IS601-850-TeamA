@@ -59,6 +59,71 @@ _It's important to note that this SWOT analysis is a general assessment, and Sta
 
 ## Peet's Coffee Marketing Strategy and SWOT Analysis:
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
  **_BUYER PERSONA_:**
