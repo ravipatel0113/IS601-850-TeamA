@@ -59,26 +59,61 @@ _It's important to note that this SWOT analysis is a general assessment, and Sta
 
 ## Peet's Coffee Marketing Strategy and SWOT Analysis:
 
+**_BUYER PERSONA_**
+ - **Name:** Roger
+ - **Age:** 25 - 35 
+ - **Occupation:** Artist
+ - **Personality traits:** Appreciates the nuances of coffee
+ - **Key Influence:**  The brand's craftsmanship, attention to detail, and dedication to delivering a superior coffee experience
+ - **Challenges:** Leads a busy lifestyle and requires accessible and authentic coffee options
+ - **Goals:** Finding good quality coffee or specialty coffee in every location
+
+**_BRAND ARCHETYPE:_**
+
+ - **Archetype :** Sage
+ - **Reason :** Peet's Coffee positions itself as a knowledgeable and experienced coffee brand. With its rich history and commitment to quality, Peet's aims to be seen as a trusted authority in the coffee industry
 
 
+## Integrating Six Persuasion Methods into their Sales Funnel
+
+|   | Reciprocity | Commitment and Consistency | Social Proof | Authority | Emotional Appeal | Scarcity |
+|---|-------------|---------------------------|--------------|----------|--------|----------|
+| Awareness | Offer free educational resources related to coffee, such as brewing guides, flavor profiles, or coffee recipes | Use consistent visual elements, tone of voice, and brand values | Feature positive reviews, testimonials, and user-generated content on their website, social media platforms, and marketing materials | Share  expertise through blog articles, podcasts, or video content | Create behind-the-scenes videos or stories showcasing the team's passion for coffee | Introduce limited-time promotions, seasonal flavors, or exclusive offers to create a sense of scarcity |
+| Consideration | Personalized offers sent via email or targeted advertising | Convey a consistent brand image and value proposition | Partner with influencers or experts in the coffee industry to endorse their products | Educate potential customers about different coffee beans, brewing techniques, and flavor profiles | Respond to customer inquiries, and share user-generated content | Create a sense of urgency and exclusivity by offering limited editions or seasonal coffee blends for a limited time |
+| Conversion | Offer exclusive discounts or rewards to customers who make a purchase or sign up for their loyalty program | Ensure a seamless and consistent purchasing experience across various channels, such as the website, mobile app, and physical stores | Leverage social media platforms to encourage customers to share their experiences | Share information about the sourcing and roasting processes, and highlighting any awards or certifications received | Build a likable brand and establish a positive connection with customers | Limited-time deals and promotions |
+| Loyalty | Include special discounts, freebies, or early access to new products | Ensure consistent and seamless experiences for their loyal customers across all touchpoints | Feature loyal customers on the website, social media platforms, and in marketing campaigns | Provide exclusive educational content or access to coffee-related events for their loyal customers | Create online forums, host exclusive events or coffee tastings | Exclusive offers and benefits for loyalty program members |
 
 
+## SWOT ANALYSIS: 
 
+**Strengths:**
+ - Strong brand recognition
+ - Commitment to quality
+ - Diverse product range
+ - Strong retail presence
 
+**Weaknesses:**
+ - Regional concentration
+ - Limited international presence
+ - Premium pricing
 
+**Opportunities:**
+ - Growing coffee consumption
+ - Online sales and delivery
+ - Expansion into emerging markets
 
-
-
-
-
+**Threats:**
+ - Intense competition
+ - Changing consumer preferences
+ - Supply chain disruptions
 
 ## Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
  **_BUYER PERSONA_:**
- - **Name:** Subbu
+ - **Name:** Social Subbu
  - **Age:** 23 - 40 
  - **Occupation:** Working Professional 
- - **Personality traits:** A health-conscious coffee lover, enjoys the variety of customizable coffee flavors offered, while also appreciating the availability of healthier food alternatives.
+ - **Personality traits:** A health-conscious coffee lover, enjoys the variety of customizable coffee flavors offered, while also appreciating the availability of some sweet food alternatives.
  - **Key Influence:**  The brand's convenience, quality, and reputation, and she frequently seeks advice from friends and colleagues for recommendations.
  - **Challenges:** Faced with time constraints in the mornings, seeks breakfast and coffee options that are easily accessible and convenient for her on-the-go lifestyle.
  - **Goals:** Prioritizes convenience and quality in her daily routine, opting for quick breakfast options and relying on a reliable source of caffeine to kick-start her mornings.
