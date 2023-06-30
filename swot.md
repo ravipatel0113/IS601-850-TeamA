@@ -75,7 +75,7 @@ _It's important to note that this SWOT analysis is a general assessment, and Sta
 ## Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
  **_BUYER PERSONA_:**
- - **Name:** Subbu
+ - **Name:** Social Subbu
  - **Age:** 23 - 40 
  - **Occupation:** Working Professional 
  - **Personality traits:** A health-conscious coffee lover, enjoys the variety of customizable coffee flavors offered, while also appreciating the availability of some sweet food alternatives.
