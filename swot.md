@@ -78,7 +78,7 @@ _It's important to note that this SWOT analysis is a general assessment, and Sta
  - **Name:** Subbu
  - **Age:** 23 - 40 
  - **Occupation:** Working Professional 
- - **Personality traits:** A health-conscious coffee lover, enjoys the variety of customizable coffee flavors offered, while also appreciating the availability of healthier food alternatives.
+ - **Personality traits:** A health-conscious coffee lover, enjoys the variety of customizable coffee flavors offered, while also appreciating the availability of some sweet food alternatives.
  - **Key Influence:**  The brand's convenience, quality, and reputation, and she frequently seeks advice from friends and colleagues for recommendations.
  - **Challenges:** Faced with time constraints in the mornings, seeks breakfast and coffee options that are easily accessible and convenient for her on-the-go lifestyle.
  - **Goals:** Prioritizes convenience and quality in her daily routine, opting for quick breakfast options and relying on a reliable source of caffeine to kick-start her mornings.
