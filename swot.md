@@ -121,6 +121,58 @@ _It's important to note that this SWOT analysis is a general assessment, and Sta
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Dunkin' Donuts' Marketing Strategy and SWOT Analysis: 
  
  **_BUYER PERSONA_:**
