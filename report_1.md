@@ -1,49 +1,42 @@
 # Group Activity Report 1
 
-The team collaboration report should include a table of Git pull requests with columns for:
-
-- Pull Request Title
-- Description
-- Assignee
-- Story Points
-- Date Assigned
-- Date Completed
-
-Example:
-
 | Pull Request Title | Description | Assignee | Story Points | Date Assigned | Date Completed |
 | ------------------ | ----------- | -------- | ------------- | ------------- | -------------- |
-| Homepage design | Design the homepage layout | Alice | 5 | MM/DD/YYYY | MM/DD/YYYY |
-| Contact form | Implement a contact form on the Contact Us page | Bob | 3 | MM/DD/YYYY | MM/DD/YYYY |
+| Added Company 1 Data  | Research done for the first company (Starbucks)   | Ravikumar | 5 | 06/26/2023 | 06/29/2023 |
+| Brand Research 2 | Research done for the second company (Peet's Coffee) | Swasti | 5 | 06/26/2023 | 06/29/2023 |
+| Brand Research 3 | Research done for the third company (Dunkin Donuts) | Charitaa | 5 | 06/26/2023 | 06/29/2023 |
+| Added swot for brand_1 | SWOT Analysis for Starbucks  | Ravikumar | 5 | 06/28/2023 | 06/29/2023 |
+| SWOT Analysis 2 | SWOT Analysis for Peet's Coffee  | Swasti | 5 | 06/28/2023 | 06/29/2023 |
+| Updating Brand 3 SWOT | SWOT Analysis for Dunkin Donuts  | Charitaa | 5 | 06/28/2023 | 06/29/2023 |
+| Group activity report | Assign story points to the contribution with whole group on call | Ravikumar | 2 | 06/29/2023 | 06/29/2023 |
+
 
 ## Project Contribution Percent Calculation
 
-The project contribution percentage for each team member can be calculated based on the sum of story points assigned to each member. Here's an example:
+The project contribution percentage for each team member:
 
-If the total number of story points for a week is 20, and Alice completed tasks with 5 story points, Bob completed tasks with 7 story points, and Charlie completed tasks with 8 story points, then:
+**Total Number of points:** 32
+- Ravikumar's contribution percent: (12 / 32) * 100 = 37.5%
+- Swasti's contribution percent: (10 / 32) * 100 = 31.3%
+- Charitaa's contribution percent: (10 / 32) * 100 = 31.3%
 
-- Alice's contribution percent: (5 / 20) * 100 = 25%
-- Bob's contribution percent: (7 / 20) * 100 = 35%
-- Charlie's contribution percent: (8 / 20) * 100 = 40%
 
-Please include this information in your group activity report for a clear understanding of individual contributions.
+## Meeting Attendance:
 
-## Meeting Attendance
+**Date:** 06/26/2023 (1 hour)
+![Initial Meeting (06/26/2023)](docs/images/initial_meeting_06-26.jpg)
 
-To verify attendance and active participation during the online meetings, please attach a screenshot documenting the meeting attendees. This ensures that everyone is present, contributing, and collaborating effectively.
+**Date:** 06/27/2023 (1 hour)
+![Second Meeting (06/27/2023)](docs/images/second_meeting_06-27.jpg)
 
-## Calculating Story Points
+**Date:** 06/29/2023 (4 hour)
+![Final Meeting (06/29/2023)](docs/images/final_meeting_06-29.jpg)
 
-Story points are a measure of effort, complexity, and uncertainty involved in a task. To assign story points, you can use a modified version of the Fibonacci sequence (1, 2, 3, 5, 8, 13, 21, 34, and so on) to reflect the understanding that the effort doesn't increase linearly with complexity.
+## Pull Requests Made:
 
-The numbers in this sequence reflect relative sizing of tasks, allowing your team to quickly categorize tasks into buckets without getting bogged down in determining the exact duration of each task.
+![Pull Request Page 1](docs/images/pull_request_page1.png)
 
-- 1: Simple task (requires little effort and knowledge)
-- 2: Slightly complex task
-- 3: Moderately complex task
-- 5: Complex task
-- 8: Very complex task
-- 13, 21, and so on: These larger numbers can be used for epic tasks that will be broken down into smaller tasks.
+![Pull Request Page 2](docs/images/pull_request_page_2.png)
 
-During your team meetings, discuss and agree on the story points for each task. The sum of all story points for the week gives you the total effort required for the week's tasks.
+![Pull Request Page 3](docs/images/pull_request_page_3.png)
 
