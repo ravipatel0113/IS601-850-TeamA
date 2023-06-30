@@ -34,7 +34,9 @@ The project contribution percentage for each team member:
 
 ## Pull Requests Made:
 
-![Pull Request Page 1]()
+![Pull Request Page 1](docs/images/pull_request_page1.png)
 
-![Pull Request Page 2]()
+![Pull Request Page 2](docs/images/pull_request_page_2.png)
+
+![Pull Request Page 3](docs/images/pull_request_page_3.png)
 
