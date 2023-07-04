@@ -1,6 +1,5 @@
 # Buyer Persona
 
-![Buyer Persona](../images/UserPersona.jpg)
+![Buyer Persona](docs/images/UserPersona.jpg)
 
-![Buyer Persona](../images/UserPersona-2.jpg)
-
+![Buyer Persona](docs/images/UserPersona-2.jpg)
