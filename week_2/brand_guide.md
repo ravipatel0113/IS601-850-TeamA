@@ -60,3 +60,8 @@ Authenticity and reliability are key in portraying the Everyman brand archetype.
 
 ![Our Brand Personality](../docs/images/our_brand_personality.jpg)
 
+**10. Mission Statement:**
+At Beans & Brews, our mission is to serve not just a cup of coffee, but a moment of comfort, connection, and community. We are dedicated to crafting the finest coffee experiences, steeped in authenticity and quality, and delivered with warmth and hospitality.
+
+**11. Vision Statement:** Our vision is to be the most cherished coffee destination where every visit feels like coming home. We envision a world where our coffee shops stand as a beacon of community, sustainability, and outstanding quality. We aspire to extend the Beans & Brews experience across diverse communities, sharing our love for coffee while making a positive impact on the environment and society.
+
