@@ -14,9 +14,9 @@ Use this for all your group documentation and put links to the documents in canv
 - [Group Activity Report 1](report_1.md)
 ### Week 2
 - [Group Activity Report 2](report_2.md)
-- [Brand Guide](brand_guide.md)
-- [Markting Strategy Customer Journey](journey.md)
-- [Buyer Persona](persona.md)
+- [Brand Guide](week_2/brand_guide.md)
+- [Markting Strategy Customer Journey](week_2/journey.md)
+- [Buyer Persona](week_2/persona.md)
 ### Week 3
 - [Group Activity Report 3](report_3.md)
 - [Link to your Proposal hosted with GitHub Pages](#replace_this_with_your_website_link)
