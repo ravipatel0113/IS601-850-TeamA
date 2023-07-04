@@ -1,7 +1,7 @@
 # Buyer Persona for Beans & Brews:
 
 **Name:** Sarah Coffee Lover
-
+**Archetype:** Explorer
 **Demographics:**
 - *Age:* 25 - 35
 - *Gender:* Female
