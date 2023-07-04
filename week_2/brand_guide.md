@@ -2,6 +2,8 @@
 
 ## Brand Name: "Beans & Brews"
 
+[Figma Link to the Brand Guide Template](https://www.figma.com/file/bT4DEtwTZLWrncRuXgbyhL/Brand-Guide?type=whiteboard&node-id=6%3A105&t=xyZnhlsP2iCe4jiq-1)
+
 **1. Our Brand:** Beans & Brews started from humble beginnings in a small town, and over the years, we've grown in size and scope, but we've never lost our community-focused roots. Our founders, inspired by their love of quality coffee, embarked on a mission to provide people with a memorable coffee experience, a place to relax and feel at home. We're more than just a coffee shop, we are a part of your daily routine, your work ritual, your escape, and your comfort.
 
 ![Our Brand](../docs/images/our_brand.jpg)
@@ -57,3 +59,4 @@ Authenticity and reliability are key in portraying the Everyman brand archetype.
 **9. Our Brand Personality:** We are warm, inviting, and grounded, much like a cup of our coffee. Our persona exudes an inviting aura that makes everyone feel welcome and comfortable. We have a rustic charm and an artisan touch that embodies our passion for crafting the perfect cup of coffee. We're fun, friendly, and foster a sense of belonging among our customers.
 
 ![Our Brand Personality](../docs/images/our_brand_personality.jpg)
+
