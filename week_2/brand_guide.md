@@ -50,3 +50,10 @@ Authenticity and reliability are key in portraying the Everyman brand archetype.
 
 ![Out Typography](../docs/images/our_typography.jpg)
 
+**8. Our Brand Value:** We are committed to authenticity, quality, and sustainability. We believe in doing business in a way that respects our earth and its resources. That's why we source our beans from responsible and sustainable farms, and our brewing process is always respectful of the environment. We value the relationships we build with our customers and the community, making them the heart of everything we do.
+
+![Our Brand Value](../docs/images/our_brand_value.jpg)
+
+**9. Our Brand Personality:** We are warm, inviting, and grounded, much like a cup of our coffee. Our persona exudes an inviting aura that makes everyone feel welcome and comfortable. We have a rustic charm and an artisan touch that embodies our passion for crafting the perfect cup of coffee. We're fun, friendly, and foster a sense of belonging among our customers.
+
+![Our Brand Personality](../docs/images/our_brand_personality.jpg)
