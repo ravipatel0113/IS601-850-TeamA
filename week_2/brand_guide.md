@@ -28,4 +28,11 @@ The logo highlights different aspects of the Beans & Brews brand, from the high-
 
 ![Our Color Palette](../docs/images/our_color_palette.jpg)
 
+**5. Our Brand Archetypes:**
+
+- **The Regular Guy/Gal (The Everyman):** The Regular Guy/Gal archetype is down-to-earth, honest, hardworking, and values comfort and simplicity. This archetype aligns with Beans & Brews as the brand is positioned to be approachable, inviting, and centered around community, providing a comforting and familiar space for its customers. It's not about luxury or exclusivity, but about being a part of daily routines, being an integral part of the community, and making everyone feel welcomed.
+
+- **The Caregiver:** The Caregiver archetype shows through Beans & Brews' commitment to sustainable sourcing, the earth, and its resources, as well as its dedication to fostering a sense of belonging among its customers. The Caregiver is compassionate, generous, and seeks to help and protect others. By prioritizing a business model that respects the environment and cherishes the relationships with customers and the community, Beans & Brews displays aspects of the Caregiver archetype.
+
+![Our Brand Archetypes](../docs/images/our_brand_archetypes.jpg)
 
