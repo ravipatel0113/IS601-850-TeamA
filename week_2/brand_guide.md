@@ -16,5 +16,16 @@ The logo highlights different aspects of the Beans & Brews brand, from the high-
 
 ![Our Brand Voice](../docs/images/our_brand_voice.jpg)
 
+**4. Our Color Palette:** 
+
+- **Deep Espresso Brown:** This color would symbolize the rich, robust flavor of the coffee beans. Brown signifies earthiness, reliability, and comfort - perfectly aligning with the brand personality.
+
+- **Warm Cream:** This color would represent the warmth and welcoming ambiance of the coffee shop. It's reminiscent of adding cream to your coffee, and it adds a softness that complements the deep brown.
+
+- **Forest Green:** To signify the brand's commitment to sustainability and nature. This color is calming and associated with growth, harmony, freshness, and the environment.
+
+- **Rustic Red:** A touch of rustic red would add a warmth and energy that mirrors the brand's passion for coffee and community. It is also an excellent color for call-to-actions in your visual content.
+
+![Our Color Palette](../docs/images/our_color_palette.jpg)
 
 
