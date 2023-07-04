@@ -36,3 +36,17 @@ The logo highlights different aspects of the Beans & Brews brand, from the high-
 
 ![Our Brand Archetypes](../docs/images/our_brand_archetypes.jpg)
 
+**6. Our Image:** Incorporate images that evoke a sense of warmth, comfort, and community, reflecting our commitment to sustainability and authenticity.
+Pictures of steaming coffee cups, latte art, cozy seating areas, and smiling faces can help create a welcoming and inviting ambiance.
+Authenticity and reliability are key in portraying the Everyman brand archetype.
+
+![Our Image](../docs/images/our_image.jpg)
+
+**7. Our Typography:** 
+
+- **Logo and Headers:** A hand-drawn, script typeface could be used to capture the artisanal, personal touch of the brand. The fonts could be slightly rustic but still easy to read to represent the brand's warm and inviting personality.
+
+- **Body Text:** For the primary copy, a serif or sans-serif font with a traditional, classic feel would complement the hand-drawn elements. It should be clear and easy to read, evoking the approachable and straightforward nature of the brand. Examples could be fonts like 'Proxima Nova', 'Futura' or 'Garamond'.
+
+![Out Typography](../docs/images/our_typography.jpg)
+
