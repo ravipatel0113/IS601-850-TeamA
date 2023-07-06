@@ -17,6 +17,9 @@ Sarah is a coffee enthusiast who values quality and authenticity in her coffee e
 ![Buyer Persona](../docs/images/UserPersona.jpg)
 
 ### Interests: 
+- Coffee Appreciation: Sarah has a genuine interest in exploring and experiencing different types of coffee, including unique blends, single-origin beans, and specialty brewing methods.
+- Coffee Culture: Sarah enjoys immersing herself in the coffee culture, including visiting coffee shops, attending coffee tastings or workshops, and engaging in conversations about coffee with fellow enthusiasts.
+- Sustainable Living: Sarah is passionate about sustainability and seeks out brands and products that align with her values. She is interested in supporting coffee brands that prioritize ethical sourcing, eco-friendly practices, and social responsibility.
 
 ### Influences:
 - Social Media: Sarah follows coffee-related accounts on Instagram and Facebook to discover new coffee trends, brewing methods, and coffee shop recommendations.
