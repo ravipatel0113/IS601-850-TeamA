@@ -14,6 +14,9 @@
 **Background:**
 Sarah is a coffee enthusiast who values quality and authenticity in her coffee experience. She leads a busy professional life and sees coffee as an essential part of her daily routine. She appreciates the art of coffee-making and enjoys exploring different flavors and blends. Sarah is socially conscious and prefers brands that prioritize sustainability and ethical sourcing practices.
 
+[Figma Link to the Buyer Persona  Template](https://www.figma.com/file/KjoREjbtSKebRsO2Nrjlij/User-Persona?type=whiteboard&node-id=0%3A1&t=yTumgi4b5aknaU1t-1)
+
+
 ![Buyer Persona](../docs/images/UserPersona.jpg)
 
 ### Interests: 
