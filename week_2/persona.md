@@ -32,8 +32,14 @@ Sarah is a coffee enthusiast who values quality and authenticity in her coffee e
 - Find a comfortable and inviting coffee shop where she can relax or work.
 
 ### Needs and Expectations: 
+- Sarah has a need for high-quality coffee that satisfies her taste preferences. She expects the coffee she purchases to have a consistently excellent taste profile and values brands that prioritize flavor and craftsmanship in their coffee.
+- Sarah values brands that are transparent about their sourcing practices, providing information about the origin of the beans, the production process, and any certifications or partnerships that demonstrate ethical and sustainable practices. She expects brands to prioritize authenticity and uphold their commitments to sustainability.
+- Sarah expects coffee shops and brands to have knowledgeable staff who can provide recommendations, answer questions, and engage in meaningful conversations about coffee. She appreciates interactions with staff members who are passionate about coffee and can share their expertise.
 
 ### Motivations:
+- Quality and Taste: Sarah is motivated by the desire for high-quality coffee with exceptional taste. She seeks out unique and flavorful coffee blends that offer a rich and enjoyable sensory experience.
+- Sustainability and Ethical Practices: Sarah is motivated by her commitment to supporting brands that prioritize sustainable sourcing, eco-friendly practices, and fair trade. She values the environmental and social impact of her purchasing decisions.
+- Community and Connection: Sarah is motivated by the opportunity to be part of a coffee community and connect with like-minded individuals. She appreciates coffee shops that foster a warm and inviting atmosphere, where she can engage with baristas and fellow coffee enthusiasts.
 
 
 ### Pain Points and Frustrations:
