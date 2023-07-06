@@ -27,6 +27,9 @@ Sarah is a coffee enthusiast who values quality and authenticity in her coffee e
 - Word-of-Mouth: Sarah appreciates recommendations from friends and colleagues who share her passion for coffee.
 
 ### Goals:
+- Enjoy a premium coffee experience that offers a variety of flavors and blends.
+- Support brands that prioritize sustainability and eco-friendly practices.
+- Find a comfortable and inviting coffee shop where she can relax or work.
 
 ### Needs and Expectations: 
 
