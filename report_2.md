@@ -30,10 +30,11 @@ The project contribution percentage for each team member:
 **Date:** 07/04/2023 (1.5 hour)
 ![Third Meeting (07/04/2023)](docs/images/07-04-2023_meeting.png)
 
+**Date:** 07/05/2023 (1 hour)
+![Final Meeting (07/05/2023)](docs/images/07-05-2023_meeting.png)
+
 ## Pull Requests Made:
 
-![Pull Request Page 1]
+![Pull Request Page 1](docs/images/week_2_pull_request_page_1.jpeg)
 
-![Pull Request Page 2]
-
-![Pull Request Page 3]
+![Pull Request Page 2](docs/images/week_2_pull_request_page_2.jpeg)
