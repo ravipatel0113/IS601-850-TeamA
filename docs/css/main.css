@@ -22,10 +22,7 @@ body {
   }
   
   .button-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+    text-align: center; /* Center align the buttons */
     margin-top: 40px;
   }
   
@@ -61,5 +58,4 @@ body {
     color: #777;
     text-decoration: none;
   }
-  
   
