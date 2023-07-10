@@ -7,18 +7,35 @@ body {
     background-color: #f7f7f7;
   }
   
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
   h1 {
     text-align: center;
     padding: 20px;
     color: #333;
+    font-size: 36px;
+    text-transform: uppercase;
   }
   
-  button {
-    display: block;
-    margin: 20px auto;
-    padding: 10px 20px;
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+  
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 40px;
+    margin: 20px;
     font-size: 18px;
-    font-weight: bold;
     color: #fff;
     background-color: #337ab7;
     border: none;
@@ -27,8 +44,22 @@ body {
     transition: background-color 0.3s ease;
   }
   
-  button:hover {
+  .button:hover {
     background-color: #23527c;
+  }
+  
+  .button-icon {
+    margin-right: 10px;
+  }
+  
+  .button-info {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .button-info a {
+    color: #777;
+    text-decoration: none;
   }
   
   
