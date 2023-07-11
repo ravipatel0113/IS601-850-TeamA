@@ -9,7 +9,44 @@
 </head>
 
 <body>
-    Your Proposal Website Goes Here
+
+  <div class="logo">
+    <img src="../docs/images/logo.png">
+
+    <div class="logo-name">
+      Beans & Brews
+    </div>
+
+  </div>
+  
+    <h1>Welcome to Beans & Brews</h1>
+    
+    <button id="brand-guide-button">Brand Guide</button>
+    <button id="marketing-strategies-button">Marketing Strategies</button>
+    <button id="buyer-personas-button">Buyer Personas</button>
+    
+    <script>
+    const brandGuideButton = document.getElementById('brand-guide-button');
+    const marketingStrategiesButton = document.getElementById('marketing-strategies-button');
+    const buyerPersonasButton = document.getElementById('buyer-personas-button');
+    
+        brandGuideButton.addEventListener('click', () => {
+          // Redirect to the brand guide page
+          window.location.href = 'brand-guide.html';
+        });
+    
+        marketingStrategiesButton.addEventListener('click', () => {
+          // Redirect to the marketing strategies page
+          window.location.href = 'Marketing_strategies.html';
+        });
+    
+        buyerPersonasButton.addEventListener('click', () => {
+          // Redirect to the buyer personas page
+          window.location.href = 'Buyer Persona.html';
+        });
+      </script>
+    
+    
 </body>
 
 </html>

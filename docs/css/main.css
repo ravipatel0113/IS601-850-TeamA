@@ -1,0 +1,52 @@
+/* main.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    background-color: #f5d6b3;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #f59309;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .logo img {
+    width: 73px;
+  }
+  
+  .logo-name {
+    text-decoration: none;
+    color: #6F5353;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 34px;
+  } 
+  
