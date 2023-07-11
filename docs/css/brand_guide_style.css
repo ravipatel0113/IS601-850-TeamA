@@ -1,0 +1,114 @@
+/* style.css */
+
+:root {
+    --section-spacing: 2.5rem;
+    /* Space between sections */
+    --color-accent: #9b3030;
+    --section-separator: 1px solid var(--color-accent);
+    /* Line to separate sections */
+  } 
+  
+  body {
+    font-family: Arial, sans-serif;
+    /* background-color: #f8e7e7; */
+    padding: 20px;
+    background: linear-gradient(135deg, #ebbd88 0%, #3f290e 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+  
+  .brand guide {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #7ba885;
+    padding: 20px;
+    border: 5px solid #9b3030;
+    /* box-shadow:10px 2px #b2e0bf; */
+    border-radius: 10px;
+  }
+  
+  h1 {
+    font-family: Garamond, sans-serif;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  h2 {
+    font-family: Garamond, sans-serif;
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+  }
+  
+  li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .our brand img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our logo img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our brand voice img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+  
+  .our color palette img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our brand archetypes img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our image img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our typography img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our brand value img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .our personality img {
+    margin-top: 10px;
+    max-width: 800px;
+  }
+
+  .brand guide div {
+    margin-bottom: var(--section-spacing);
+    /* Add space below each section */
+    padding-bottom: var(--section-spacing);
+    /* Add padding at the bottom of each section */
+    border-bottom: var(--section-separator);
+    /* Add a line below each section */
+  }
