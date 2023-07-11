@@ -5,6 +5,7 @@ body {
     margin: 20px;
     padding: 0;
     text-align: center;
+    background-color: #f5d6b3;
   }
   
   h1 {
@@ -28,4 +29,24 @@ body {
     background-color: #f59309;
   }
   
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .logo img {
+    width: 73px;
+  }
+  
+  .logo-name {
+    text-decoration: none;
+    color: #6F5353;
+    font-family: Outfit;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 34px;
+  } 
   
