@@ -1,36 +1,101 @@
 /* style.css */
 
+:root {
+  --section-spacing: 2.5rem;
+  /* Space between sections */
+  --color-accent: #d39494;
+  --section-separator: 1px solid var(--color-accent);
+  /* Line to separate sections */
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.logo img {
+  width: 73px;
+}
+
+.logo-name {
+  text-decoration: none;
+  color: #6F5353;
+  font-family: Outfit;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34px;
+} 
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
+  /* background-color: #f8e7e7; */
   padding: 20px;
+  background: linear-gradient(135deg, #FDE3C6 0%, #38250E 100%);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 .buyer-persona {
   max-width: 800px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #def5e3;
   padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
+  border: 5px solid #d39494;
+  /* box-shadow:10px 2px #b2e0bf; */
+  border-radius: 10px;
 }
 
 h1 {
-  font-size: 24px;
+  font-family: Garamond, sans-serif;
+  font-size: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  margin-top: 25px;
   margin-bottom: 10px;
 }
 
-h2, h3 {
-  font-size: 18px;
+h3 {
+  font-family: Garamond, sans-serif;
+  font-size: 20px;
   margin-top: 20px;
   margin-bottom: 10px;
 }
 
-p, ul {
+li {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-bottom: 10px;
 }
 
 ul {
   list-style-type: disc;
   margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.user-image img {
+  margin-top: 10px;
+  max-width: 800px;
+}
+
+.buyer-persona div {
+  margin-bottom: var(--section-spacing);
+  /* Add space below each section */
+  padding-bottom: var(--section-spacing);
+  /* Add padding at the bottom of each section */
+  border-bottom: var(--section-separator);
+  /* Add a line below each section */
 }
