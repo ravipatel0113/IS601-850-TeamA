@@ -16,7 +16,7 @@
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
   }
   
-  .brand guide {
+  .brand-guide {
     max-width: 800px;
     margin: 0 auto;
     background-color: #7ba885;
@@ -51,6 +51,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     margin-bottom: 10px;
+    max-width: 800px;
   }
   
   ul {
@@ -59,49 +60,58 @@
     margin-bottom: 10px;
   }
   
-  .our brand img {
-    margin-top: 500px;
-    max-width: 500px;
+  .our-brand img {
+    margin-top: 10px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our logo img {
+  .our-logo img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our brand voice img {
+  .our-brand-voice img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
   
-  .our color palette img {
+  .our-color-palette img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our brand archetypes img {
+  .our-brand-archetypes img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our image img {
+  .our-image img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our typography img {
+  .our-typography img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our brand value img {
+  .our-brand-value img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
-  .our personality img {
+  .our-brand-personality img {
     margin-top: 10px;
-    max-width: 800px;
+    width: 800px;
+    align-items: center;
   }
 
   .brand guide div {
