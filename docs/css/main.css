@@ -32,6 +32,7 @@ body {
   .menu {
     display: flex;
     justify-content: space-between;
+    margin-bottom: 30px;
   }
   
   .logo {
@@ -59,7 +60,7 @@ body {
     display: flex;
     align-items: center;
     gap: 15px;
-    margin-bottom: 10px;
+    /* margin-bottom: 10px; */
   }
 
   .links {
@@ -75,6 +76,17 @@ body {
     padding-right: 15px;
     border-right: 3px solid #6F5353;
   }
+
+.video-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.video-section video {
+  width: 700px;
+}
   
 .snapshot {
     /* background-color: skyblue; */
