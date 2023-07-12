@@ -28,6 +28,11 @@ body {
   button:hover {
     background-color: #f59309;
   }
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+  }
   
   .logo {
     display: flex;
@@ -37,16 +42,51 @@ body {
   }
   
   .logo img {
-    width: 73px;
+    width: 132px;
   }
   
   .logo-name {
     text-decoration: none;
     color: #6F5353;
     font-family: Outfit;
-    font-size: 20px;
+    font-size: 50px;
     font-style: normal;
     font-weight: 700;
     line-height: 34px;
   } 
+
+  .page-link {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 10px;
+  }
+
+  .links {
+    color: #6F5353;
+    font-family: Outfit;
+    font-size: 30px;
+    font-style: normal;
+    font-variant-caps: all-petite-caps;
+    font-weight: 400;
+    line-height: 27.5px;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding-right: 15px;
+    border-right: 3px solid #6F5353;
+  }
   
+.snapshot {
+    /* background-color: skyblue; */
+    display: inline-block;
+
+}
+
+.snapshot img {
+  margin-right: 10px;
+  width: 500px;
+  height: 300px;
+}
+.snapshot img:hover {
+    opacity: .5;
+}
