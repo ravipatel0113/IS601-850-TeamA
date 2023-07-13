@@ -5,6 +5,8 @@ const websiteURL = 'http://localhost:3000'; // Replace with the URL of the stude
 
 // Expected constants
 const expectedTitle = 'Beans & Brews';
+const expectedLogoText = 'Beans & Brews';
+const expectedLinks = 3;
 
 test.beforeEach(async ({ page }) => {
   await page.goto(websiteURL);
@@ -15,61 +17,34 @@ test('Check Page Title', async ({ page }) => {
   expect(title).toBe(expectedTitle);
 });
 
-/* This test checks that the profile name (h2) is visible on the page */
-test('Check Profile Name', async ({ page }) => {
+test('Check Logo in Header', async ({ page }) => {
+  const logoText = await page.locator('.logo-name').textContent();
+  expect(logoText).toBe(expectedLogoText);
+});
+
+test('Check Logo Image', async ({ page }) => {
   await page.goto(websiteURL);
-  await expect(page.locator('.sidebar h2')).toBeVisible();
+  await expect(page.locator('.logo img')).toBeVisible();
+});
+
+/* This test checks that the has Video. */
+test('Check Video Upload', async ({ page }) => {
+  await page.goto(websiteURL);
+  await expect(page.locator('.video-section video')).toBeVisible();
 });
 
 /* This test checks that the profile image is visible on the page */
-test('Check Profile Image', async ({ page }) => {
+test('Check Snapshot Image', async ({ page }) => {
   await page.goto(websiteURL);
-  await expect(page.locator('.portrait img')).toBeVisible();
+  await expect(page.locator('.snapshot')).toBeVisible();
 });
 
-/* This test checks that the job title is visible on the page */
-test('Check Job Title', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.sidebar h3')).toBeVisible();
+// This test checks the snapshots has 3 links to it .
+test('Check Snapshot Image Links', async ({ page }) => {
+  // await page.goto(websiteURL);
+  const linksCount = await page.locator('.snapshot a').count();
+  expect(linksCount).toBe(expectedLinks);
 });
-
-/* This test checks that the social links are visible on the page */
-test('Check Social Links', async ({ page }) => {
-  await page.goto(websiteURL);
-  const linksCount = await page.locator('.links a').count();
-  await expect(linksCount).toBeGreaterThan(0);
-});
-
-/* This test checks that the Objective section is visible on the page */
-test('Check Objective Section', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.sidebar-bottom h4')).toBeVisible();
-});
-
-/* This test checks that the Skills section is visible on the page */
-test('Check Skills Section', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.skills-section h2')).toBeVisible();
-});
-
-/* This test checks that the Experience section is visible on the page */
-test('Check Experience Section', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.experience-section h2')).toBeVisible();
-});
-
-/* This test checks that the Education section is visible on the page */
-test('Check Education Section', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.education-section h2')).toBeVisible();
-});
-
-/* This test checks that the page title is not empty */
-// test('Check Page Title', async ({ page }) => {
-//   await page.goto(websiteURL);
-//   const title = await page.title();
-//   await expect(title).not.toBe('');
-// });
 
 /* This test checks that the meta description for SEO is not empty */
 test('Check SEO Meta Description', async ({ page }) => {
@@ -83,54 +58,6 @@ test('Check SEO Meta Keywords', async ({ page }) => {
   await page.goto(websiteURL);
   const metaKeywords = await page.getAttribute('meta[name="keywords"]', 'content');
   await expect(metaKeywords).not.toBe('');
-});
-/* This test checks that the main content area is present on the page */
-test('Check Main Content Area', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('body > .container > .main-content')).toBeVisible();
-});
-
-/* This test checks that the sidebar area is present on the page */
-test('Check Sidebar Area', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('body > .container > aside.sidebar')).toBeVisible();
-});
-
-/* This test checks that the tagline heading (h1) is visible on the page */
-test('Check Tagline Heading', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('header h1')).toBeVisible();
-});
-
-/* This test checks that the skills icons are present on the page */
-test('Check Skills Icons', async ({ page }) => {
-  await page.goto(websiteURL);
-  const skillsIconsCount = await page.locator('.skill-list li i').count();
-  await expect(skillsIconsCount).toBeGreaterThan(0);
-});
-
-/* This test checks that the experience company and role are visible on the page */
-test('Check Experience Role and Company', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.experience-section h3')).toBeVisible();
-});
-
-/* This test checks that the experience duration is visible on the page */
-test('Check Experience Duration', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.experience-section h4')).toBeVisible();
-});
-
-/* This test checks that the education degree and university are visible on the page */
-test('Check Education Degree and University', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.education-section h3')).toBeVisible();
-});
-
-/* This test checks that the education duration is visible on the page */
-test('Check Education Duration', async ({ page }) => {
-  await page.goto(websiteURL);
-  await expect(page.locator('.education-section h4')).toBeVisible();
 });
 
 /* This test checks that the responsive meta tag is present */
