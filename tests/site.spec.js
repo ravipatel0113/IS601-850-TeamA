@@ -46,6 +46,28 @@ test('Check Snapshot Image Links', async ({ page }) => {
   expect(linksCount).toBe(expectedLinks);
 });
 
+// Check the footer section of the page.
+test('Check All Footer Links', async ({ page }) => {
+  const footerLinks = await page.locator('.footer-link');
+  const count = await footerLinks.count();
+
+  for (let i = 0; i < count; i++) {
+    const link = footerLinks.nth(i);
+    expect(await link.isVisible()).toBe(true);
+  }
+});
+
+// Test all the footer Icons.
+test('Check All Footer Icons', async ({ page }) => {
+  const footerIcons = await page.locator('.footer-link i');
+  const count = await footerIcons.count();
+
+  for (let i = 0; i < count; i++) {
+    const icon = footerIcons.nth(i);
+    expect(await icon.isVisible()).toBe(true);
+  }
+});
+
 /* This test checks that the meta description for SEO is not empty */
 test('Check SEO Meta Description', async ({ page }) => {
   await page.goto(websiteURL);
