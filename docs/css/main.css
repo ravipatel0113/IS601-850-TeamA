@@ -112,3 +112,95 @@ button:hover {
 .snapshot img:hover {
     opacity: .5;
 }
+
+/* Footer Section */
+
+footer{
+  background-color: #FFF;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+}
+
+.footer-title {
+  color: #6F5353;
+  font-family: Outfit;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-link {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-link a{
+  color: #6F5353;
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 31px;
+  text-decoration: none;
+}
+
+/* Form Input Section */
+
+.newsletter-form{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.email-address {
+  border-radius: 70px;
+  background: rgba(19, 18, 79, 0.31);
+  display: flex;
+  width: 113px;
+  flex-direction: column;
+  flex-shrink: 0;
+  color: #614949;
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 31px;
+  opacity: 1;
+  margin-bottom: 20px;
+  margin-top: 0px;
+  width: 315px;
+  align-items: center;
+}
+.footer-text {
+  border-radius: 83px;
+  opacity: 1;
+  background: #155e27;
+  margin-bottom: 20px;
+  width: 129px;
+  height: 37px;
+  display: flex;
+  justify-content: center;
+}
+
+
+input.footer-text {
+  color: #FFF;
+  /* sub header */
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 27.5px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
