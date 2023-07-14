@@ -33,7 +33,10 @@ The project contribution percentage for each team member:
 ![Third Meeting (07/11/2023)](docs/images/7-11.png)
 
 **Date:** 07/13/2023 (5 hours)
-![Final Meeting (07/13/2023)](docs/images/7-13.png)
+![Fourth Meeting (07/13/2023)](docs/images/7-13.png)
+
+**Date:** 07/14/2023 (2 hours)
+![Final Meeting (07/14/2023)](docs/images/7-14.png)
 
 ## Pull Requests Made:
 
