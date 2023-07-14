@@ -19,7 +19,7 @@ Use this for all your group documentation and put links to the documents in canv
 - [Buyer Persona](week_2/persona.md)
 ### Week 3
 - [Group Activity Report 3](report_3.md)
-- [Link to your Proposal hosted with GitHub Pages](#replace_this_with_your_website_link)
+- [Link to your Proposal hosted with GitHub Pages](https://ravipatel0113.github.io/IS601-850-TeamA/index.html)
 
 
 
