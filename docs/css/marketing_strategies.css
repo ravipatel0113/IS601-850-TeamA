@@ -115,6 +115,7 @@ li {
 p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-bottom: 10px;
+  margin-top: 1px;
 }
 
 ul {
@@ -213,6 +214,7 @@ footer{
   height: 37px;
   display: flex;
   justify-content: center;
+  margin-left: 5px;
 }
 
 
