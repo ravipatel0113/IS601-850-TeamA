@@ -2,14 +2,117 @@
 <html lang="en">
 
 <head>
+    <!-- Title Section -->
+    <title>Beans & Brews</title>
+
+    <!-- Website Icon -->
+    <link rel="icon" type="image/x-icon" href="images/siteicon.ico">
+
+    <!-- Meta Tag Section -->
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+  
+    <meta name="description" content="This is our Proposal Website for Coffee Business">
+    
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- CSS file  -->
+    <link rel="stylesheet" type="text/css" href="css/main.css"> <!-- Links the main css file for styles -->
+
+    <!-- Preloads font awesome stylesheet for icons, this helps speed up loading as the stylesheet is loaded in the background -->
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+    as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript> <!-- Provides a fallback in case JavaScript is disabled -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    </noscript>
+
+    <!-- Preloads the Google fonts for the webpage, helps with performance -->
+    <link rel="preload"
+    href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Work+Sans:wght@400;500&display=swap"
+    as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript> <!-- Provides a fallback in case JavaScript is disabled -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Work+Sans:wght@400;500&display=swap">
+    </noscript>
 
 </head>
 
 <body>
-    Your Proposal Website Goes Here
+
+  <section class="menu">
+    <div class="logo">
+      <img src="../docs/images/logo.png">
+
+      <div class="logo-name">Beans & Brews</div>
+
+    </div>
+
+    <div class="page-link">
+      <a href="../docs/brand-guide.html" class="links"> Brand Guide </a>
+
+      <a href="../docs/Marketing_strategies.html" class="links"> Marketing Strategies </a>
+
+      <a href="../docs/Buyer Persona.html" class="links"> Buyer Persona </a>
+      
+    </div>
+  </section>
+
+    <section class="video-section">
+      <video controls>
+
+        <source src="../docs/video/IS-601 Team A Presentation Final.mp4" type="video/mp4">
+
+        Your browser does not support the video tag.
+      </video>
+    </section>
+
+    <section class="snapshot">
+      <div class="img-link">
+
+        <a href="../docs/brand-guide.html"><img src="../docs/images/brand_guide.png"></a>
+
+        <a href="../docs/Marketing_strategies.html"><img src="../docs/images/sales_funnel.png"></a>
+
+        <a href="../docs/Buyer Persona.html"><img src="../docs/images/buyer_persona.png"></a>
+      </div>
+    </section>
+
+  <!-- Footer Section -->
+  <footer>
+
+    <div class="footer-title">
+        Beans & Brews
+    </div>
+    <div class="footer-link">
+        <a href="../docs/index.html"><i class="fas fa-home"></i> Home</a>
+        <a href="../docs/brand-guide.html"><i class="fas fa-book"></i> Brand Guide</a>
+        <a href="../docs/Marketing_strategies.html"><i class="fas fa-bullhorn"></i> Marketing Strategies</a>
+        <a href="../docs/Buyer Persona.html"><i class="fas fa-user"></i> Buyer Persona</a>
+    </div>
+
+    <div class="footer-link">
+
+        <a href="mailto:example@example.com"><i class="fas fa-envelope"></i> Email</a>
+        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i> Instagram</a>
+        <a href="https://twitter.com/"><i class="fab fa-twitter"></i> Twitter</a>
+    </div>
+
+    <div class="footer-link">
+
+        <a href="#"><i class="fas fa-store"></i> Market</a>
+        <a href="#"><i class="fas fa-phone"></i> Contact</a>
+
+    </div>
+
+    <!-- Form Section -->
+    <form class="newsletter-form">
+        <input type = "email" placeholder="Email Address" class="email-address" required></input>
+        <input type="submit" value="Submit" class="footer-text"></input>
+    </form>
+  </footer>
+    
 </body>
 
 </html>
